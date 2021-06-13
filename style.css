@@ -1,0 +1,198 @@
+
+#head1{
+	color: blue;
+}
+h1{
+	color: darkcyan;
+}
+
+h2{
+	color: darkcyan;
+	text-align: center;
+}
+
+
+div{
+	text-align: center;
+	font-size: 30px;
+}
+
+
+.head1{
+	color: green;
+}
+
+.box{
+	width: 50%;
+	height: 100px;
+	background-color: green;
+}
+
+
+
+.header{
+	min-height: 100px;
+	background-color: darkcyan;
+}
+
+
+.wrapper{
+	overflow: hidden;
+	border: 5px solid yellow;
+}
+.contact{
+	float: left;
+	width: 70%;
+	min-height: 200px;
+	background-color: green;
+}
+.blog{
+	float: right;
+	width: 30%;
+	min-height: 200px;
+	background-color: blue;
+}
+
+
+
+
+
+.wrapper2{
+	overflow: hidden;
+}
+.single{
+	float: left;
+	min-height: 300px;
+	width: 33.33%;
+
+}
+.tomato{
+	background-color: tomato;
+}
+.olive{
+	background-color: olive;
+}
+.cyan{
+	background-color: cyan;
+}
+
+
+
+
+
+.wrapper3{
+	overflow: hidden;
+}
+
+.div1{
+	float: left;
+	min-height: 150px;
+	width: 30%;
+	background-color: blue;
+}
+.div2{
+	float: left;
+	min-height: 150px;
+	width: 70%;
+	background-color: yellow;
+}
+
+
+
+
+
+.wrapper4{
+	overflow: hidden;
+	border: 2px dashed; black;
+}
+
+
+.ex4{
+	float: left;
+	min-height: 400px;
+	width: 25%;
+}
+
+.div3{
+	background-color: green;
+}
+.div4{
+	background-color: blue;
+}
+.div5{
+	background-color: yellow;
+}
+.div6{
+	background-color: cyan;
+}
+
+
+
+
+
+
+.wrapper5{
+
+	border: 3px solid darkblue;
+}
+
+
+.wrapper51{
+	overflow: hidden
+}
+
+.ex51{
+	float: left;
+	min-height: 200px;
+	width: 25%;
+}
+
+.div7{
+	background-color: blue;
+}
+.div8{
+	background-color: yellow;
+}
+.div9{
+	background-color: cyan;
+}
+.div10{
+	background-color: tomato;
+}
+
+
+.wrapper52{
+	overflow: hidden;
+}
+
+.ex52{
+	float: left;
+	min-height: 200px;
+	width: 25%;
+}
+
+.div12{
+	background-color: olive;
+}
+.div11{
+	background-color: red;
+}
+.div13{
+	background-color: grey;
+}
+.div14{
+	background-color: darkgreen;
+}
+
+
+
+
+.footer{
+
+	min-height: 100px;
+	background-color: black;
+	color: white;
+}
+
+
+
